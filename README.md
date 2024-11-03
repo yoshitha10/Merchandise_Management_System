@@ -4,8 +4,8 @@ Built a comprehensive full-stack web application for merchandise management, pro
 
 ## Technologies used
 
+- PostgreSQL
 - React
 - Node.js
 - Express
-- PostgreSQL
 - CSS
